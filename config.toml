@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://gracious-edison-345635.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -45,3 +45,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
