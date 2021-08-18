@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Gezza"
+    title = "jkolaa"
     weight = 1
     contentDir = "content/en"
 
